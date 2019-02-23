@@ -2,6 +2,14 @@
 
 Convert your Airtable sheet into a shiny sale listing website. 
 
+Excel sheet in Airtable:-
+
+![Excel](https://shadyabhi.keybase.pub/Marketsheet/sheet.png)
+
+Get a website like:-
+
+![Website](https://shadyabhi.keybase.pub/Marketsheet/website.png)
+
 ## Build
 
 ### Frontend
