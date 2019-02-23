@@ -1,6 +1,7 @@
 # Marketsheet
 
 Convert your Airtable sheet into a shiny sale listing website. 
+The sole purpose of this project is to make the experience more user friendly for the buyers rather than just looking at a boring excelsheet. Also, show buyers only what they have to see and excel sheet can contain more details. 
 
 Excel sheet in Airtable:-
 
