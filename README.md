@@ -9,8 +9,8 @@ Excel sheet in Airtable:-
 
 Get a website like:-
 
-![Website](https://shadyabhi.keybase.pub/Marketsheet/website.png)
-![Website](https://shadyabhi.keybase.pub/Marketsheet/website2.png)
+![Website1](https://shadyabhi.keybase.pub/Marketsheet/website.png)
+![Website2](https://shadyabhi.keybase.pub/Marketsheet/website2.png)
 
 ## Build
 
